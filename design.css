@@ -1,0 +1,29 @@
+body {
+    background-color: white;
+}
+
+.headings {
+    size: 24px;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Square Peg', cursive;
+    color: darkred;
+    text-align: center;
+}
+
+hr {
+    border-style: dashed;
+    border-color: silver;
+    border-width: 5px;
+}
+
+.mona {
+    text-align: left;
+}
+
+.bona {
+    margin-left: 450px;
+}
+
+.kona {
+    margin-left: 900px;
+}
